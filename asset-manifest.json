@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%20SimpleGram/static/css/main.7a76ddbb.chunk.css",
+    "main.js": "/%20SimpleGram/static/js/main.3c63b423.chunk.js",
+    "main.js.map": "/%20SimpleGram/static/js/main.3c63b423.chunk.js.map",
+    "runtime-main.js": "/%20SimpleGram/static/js/runtime-main.b4eec6cb.js",
+    "runtime-main.js.map": "/%20SimpleGram/static/js/runtime-main.b4eec6cb.js.map",
+    "static/js/2.a32f5d45.chunk.js": "/%20SimpleGram/static/js/2.a32f5d45.chunk.js",
+    "static/js/2.a32f5d45.chunk.js.map": "/%20SimpleGram/static/js/2.a32f5d45.chunk.js.map",
+    "index.html": "/%20SimpleGram/index.html",
+    "precache-manifest.1f0f8070687cdf2805fb2dee53911e36.js": "/%20SimpleGram/precache-manifest.1f0f8070687cdf2805fb2dee53911e36.js",
+    "service-worker.js": "/%20SimpleGram/service-worker.js",
+    "static/css/main.7a76ddbb.chunk.css.map": "/%20SimpleGram/static/css/main.7a76ddbb.chunk.css.map",
+    "static/js/2.a32f5d45.chunk.js.LICENSE.txt": "/%20SimpleGram/static/js/2.a32f5d45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4eec6cb.js",
+    "static/js/2.a32f5d45.chunk.js",
+    "static/css/main.7a76ddbb.chunk.css",
+    "static/js/main.3c63b423.chunk.js"
+  ]
+}
